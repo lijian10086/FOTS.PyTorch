@@ -20,6 +20,9 @@
 
 This is a PyTorch implementation of [FOTS](https://arxiv.org/abs/1801.01671).
 
+# 相关项目：
+https://github.com/lijian10086/FOTS
+
 # 李剑备注：
 https://blog.csdn.net/zhangwl27/article/details/86544941
 https://blog.csdn.net/qq_14845119/article/details/84635847
